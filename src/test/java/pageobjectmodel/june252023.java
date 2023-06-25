@@ -1,5 +1,5 @@
 package pageobjectmodel;
 
-public class june25 {
+public class june252023 {
 
 }
